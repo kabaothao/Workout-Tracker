@@ -61,7 +61,6 @@ const workoutSessionSchema = new Schema({
 //Set up to reduce durations of multiple exercises to total duration of workout
 workoutSessionSchema.virtual("totalDuration").get(function () {
   return this.exercises.reduce((total, exercise) => {
-    console.log(total, exercise);
     return total + exercise.duration;
   }, 0);
 });
