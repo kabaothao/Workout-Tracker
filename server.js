@@ -19,6 +19,8 @@ app.use(express.json());
 // this is grabbing the "public" directory folder
 app.use(express.static("public"));
 
+console.log("==> ENV VARS: \n", process.env.MONGODB_URI)
+
 // Set up and connect to the mongoose database
 mongoose.connect(
     process.env.MONGODB_URI || 'mongodb://localhost/workout',
