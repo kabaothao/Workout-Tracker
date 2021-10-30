@@ -31,11 +31,8 @@
 - Node.js
 - Javascipt
 - Robo 3T 
-- Express.js
-- Dotenv
-- Mongoose
-- Mongodb
 - Git Bash
+- Mongodb
 
 ## Features
 
@@ -56,14 +53,11 @@ What are the project requirements/dependencies? Where are they listed? A require
 
 - The app was deployed on a walkthrough video that demonstrates its functionality.
 - Dependencies:
-- Express
-- Inquirer
-- Mysql2
-- Sequelize
-- Express-session
-- Connect-session-sequelize
-- Express-handlebars
-- Bcrypt-package
+- Express.js
+- Dotenv
+- Mongoose
+- Morgan
+
 
 
 ## Usage
