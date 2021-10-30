@@ -44,8 +44,8 @@
 
 ## Screenshots
 
-![Example screenshot](https://github.com/kabaothao/Tech-Blog/blob/main/image/login.PNG)
-![Example screenshot](https://github.com/kabaothao/Tech-Blog/blob/main/image/newpost.PNG)
+![Example screenshot](https://github.com/kabaothao/Workout-Tracker/blob/main/assets/imageone.PNG)
+![Example screenshot](https://github.com/kabaothao/Workout-Tracker/blob/main/assets/imagetwo.PNG)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
