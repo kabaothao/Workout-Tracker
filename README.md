@@ -36,7 +36,7 @@
 
 ## Features
 
-- This application was created using MONGOdb to store user's data information, along with Node.js, express, Dotenv, Express.js, and Mongoose. 
+- This application was created using Mongodb to store user's data information, along with Node.js, express, Dotenv, Express.js, and Mongoose. 
 
 
 ## Screenshots
